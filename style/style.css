@@ -1,0 +1,53 @@
+.navbar-brand,
+.nav-link {
+    color: #7D70BA !important;
+}
+
+h1,
+.text-web {
+    color: #7D70BA;
+}
+
+.btn-my-works,
+.btn-download-cv {
+    background-color: #7D70BA;
+    color: white;
+}
+
+.btn-caraousel {
+    background-color: #7D70BA !important;
+}
+
+.progress-bar {
+    background-color: #7D70BA;
+}
+
+.icon-web,
+.icon-creative,
+.icon-photoshop,
+.icon-email,
+.icon-phone,
+.icon-address {
+    color: #7D70BA !important;
+}
+
+.freelancer-available {
+    background-color: #7D70BA;
+}
+
+.rating {
+    color: #7D70BA;
+}
+
+footer {
+    color: #7D70BA;
+}
+
+.navbar-toggler {
+    background-color: #7D70BA;
+}
+
+.img-resize {
+    width: 80px;
+    height: 80px;
+}
